@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhoujy1321.github.io</id>
+    <title>zjyyy</title>
+    <updated>2021-01-29T04:12:26.643Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhoujy1321.github.io"/>
+    <link rel="self" href="https://zhoujy1321.github.io/atom.xml"/>
+    <subtitle>my blog</subtitle>
+    <logo>https://zhoujy1321.github.io/images/avatar.png</logo>
+    <icon>https://zhoujy1321.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, zjyyy</rights>
+    <entry>
+        <title type="html"><![CDATA[关于博主]]></title>
+        <id>https://zhoujy1321.github.io/post/guan-yu-bo-zhu/</id>
+        <link href="https://zhoujy1321.github.io/post/guan-yu-bo-zhu/">
+        </link>
+        <updated>2021-01-29T02:44:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[课程]]></title>
+        <id>https://zhoujy1321.github.io/post/ke-cheng/</id>
+        <link href="https://zhoujy1321.github.io/post/ke-cheng/">
+        </link>
+        <updated>2021-01-29T02:10:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>All courses have been studying in USTC.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>All courses have been studying in USTC.</p>
+]]></content>
+    </entry>
+</feed>
