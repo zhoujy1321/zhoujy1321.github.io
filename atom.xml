@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhoujy1321.github.io</id>
     <title>zjyyy</title>
-    <updated>2021-01-29T04:52:58.803Z</updated>
+    <updated>2021-01-29T08:30:51.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhoujy1321.github.io"/>
     <link rel="self" href="https://zhoujy1321.github.io/atom.xml"/>
-    <subtitle>my blog</subtitle>
+    <subtitle>welcome to my channel!</subtitle>
     <logo>https://zhoujy1321.github.io/images/avatar.png</logo>
     <icon>https://zhoujy1321.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, zjyyy</rights>
